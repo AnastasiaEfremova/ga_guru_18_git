@@ -6,6 +6,6 @@ public class Main {
 
         System.out.println("Hello qaGuru, this is new branch: test_branch");
 
-        System.out.println("Some code to make conflict 3");
+        System.out.println("Some code to make conflict 4");
     }
 }
